@@ -21,8 +21,7 @@ The dataset provides a holistic understanding of energy consumption in Singapore
 
 For details, refer to https://www.ema.gov.sg/assets/stat_table/SES_Public_2021_tidy.xlsx
 
-### Requirements
-1. MySQL Database Implementation
-2. NoSQL Database Implementation
-3. 11 queries
-4. 4 open-ended questions
+### This repository contains:
+1. MySQL Database Implementation 
+2. NoSQL Database Implementation and json data files
+3. Queries
