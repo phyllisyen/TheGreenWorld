@@ -23,5 +23,3 @@ For details, refer to https://www.ema.gov.sg/assets/stat_table/SES_Public_2021_t
 2. NoSQL Database Implementation
 3. 11 queries
 4. 4 open-ended questions
-
-questions will be included in SQL and JS files
