@@ -12,8 +12,7 @@ another would be to use an IN clause and include all 195/197 country names but t
 SELECT COUNT(DISTINCT(country)) 
 FROM owid_energy_data
 WHERE iso_code NOT LIKE "%OWID_%"
-AND iso_code != "";
-# 217
+AND iso_code != "";   # 217
 
 
 # Q2 Find the earliest and latest year in [owid_energy_data]. What are the countries having a record in <owid_energy_data> every year throughout the entire period (from the earliest year to the latest year)?
