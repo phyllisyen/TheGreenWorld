@@ -1,0 +1,192 @@
+{"_id":{"$oid":"63074885ff3acbe0d63d75c7"},"year":"2005","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"8.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75c8"},"year":"2005","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"58884.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75c9"},"year":"2005","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1315.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ca"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"29551.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75cb"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"3999.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75cc"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"7619.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75cd"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2180.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ce"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"4095.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75cf"},"year":"2005","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1845.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d0"},"year":"2005","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"5571.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d1"},"year":"2005","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d2"},"year":"2005","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d3"},"year":"2006","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"4.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d4"},"year":"2006","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"56740.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d5"},"year":"2006","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1547.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d6"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"35510.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d7"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"6344.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d8"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"7891.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75d9"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2429.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75da"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"3733.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75db"},"year":"2006","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1910.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75dc"},"year":"2006","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6007.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75dd"},"year":"2006","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75de"},"year":"2006","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75df"},"year":"2007","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"6.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e0"},"year":"2007","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"55126.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e1"},"year":"2007","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1503.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e2"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"40331.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e3"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"6437.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e4"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"9146.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e5"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2831.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e6"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"3824.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e7"},"year":"2007","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"913.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e8"},"year":"2007","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6433.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75e9"},"year":"2007","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ea"},"year":"2007","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75eb"},"year":"2008","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"4.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ec"},"year":"2008","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"54076.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ed"},"year":"2008","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1554.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ee"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"47369.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ef"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"9053.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f0"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"10531.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f1"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"3540.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f2"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"4391.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f3"},"year":"2008","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1362.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f4"},"year":"2008","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6585.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f5"},"year":"2008","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f6"},"year":"2008","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f7"},"year":"2009","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"3.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f8"},"year":"2009","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"47479.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75f9"},"year":"2009","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1600.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75fa"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"54786.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75fb"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"15131.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75fc"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"11792.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75fd"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"3091.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75fe"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"4614.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d75ff"},"year":"2009","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"883.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7600"},"year":"2009","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6656.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7601"},"year":"2009","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7602"},"year":"2009","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7603"},"year":"2010","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"6.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7604"},"year":"2010","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"44332.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7605"},"year":"2010","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1742.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7606"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"58020.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7607"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"17459.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7608"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"14858.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7609"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"3602.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760a"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"5970.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760b"},"year":"2010","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1149.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760c"},"year":"2010","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7214.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760d"},"year":"2010","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760e"},"year":"2010","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d760f"},"year":"2011","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"6.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7610"},"year":"2011","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"45251.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7611"},"year":"2011","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1836.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7612"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"62639.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7613"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"17578.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7614"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"14786.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7615"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2228.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7616"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"6122.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7617"},"year":"2011","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"2466.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7618"},"year":"2011","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7286.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7619"},"year":"2011","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761a"},"year":"2011","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761b"},"year":"2012","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"25.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761c"},"year":"2012","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"50430.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761d"},"year":"2012","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1761.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761e"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"59444.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d761f"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"14584.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7620"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"13980.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7621"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"1586.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7622"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"6369.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7623"},"year":"2012","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1611.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7624"},"year":"2012","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7901.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7625"},"year":"2012","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7626"},"year":"2012","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"0.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7627"},"year":"2013","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"266.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7628"},"year":"2013","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"46920.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7629"},"year":"2013","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1839.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762a"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"63691.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762b"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"12930.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762c"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"13895.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762d"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"1673.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762e"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"7693.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d762f"},"year":"2013","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"2295.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7630"},"year":"2013","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7947.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7631"},"year":"2013","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"948.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7632"},"year":"2013","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"26.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7633"},"year":"2014","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"396.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7634"},"year":"2014","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"47147.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7635"},"year":"2014","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"2007.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7636"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"62279.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7637"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"14322.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7638"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"14774.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7639"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2041.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763a"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"8981.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763b"},"year":"2014","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1401.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763c"},"year":"2014","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7384.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763d"},"year":"2014","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"2033.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763e"},"year":"2014","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"44.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d763f"},"year":"2015","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"406.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7640"},"year":"2015","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"48089.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7641"},"year":"2015","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1919.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7642"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"69902.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7643"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"14809.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7644"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"15614.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7645"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2007.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7646"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"9684.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7647"},"year":"2015","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1388.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7648"},"year":"2015","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7133.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7649"},"year":"2015","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"2319.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764a"},"year":"2015","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"81.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764b"},"year":"2016","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"426.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764c"},"year":"2016","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"51645.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764d"},"year":"2016","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1764.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764e"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"68560.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d764f"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"15896.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7650"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"16891.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7651"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"3131.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7652"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"7221.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7653"},"year":"2016","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1606.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7654"},"year":"2016","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7418.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7655"},"year":"2016","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"2261.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7656"},"year":"2016","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"116.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7657"},"year":"2017","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"898.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7658"},"year":"2017","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"56631.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7659"},"year":"2017","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1923.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765a"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"76356.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765b"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"14321.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765c"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"16683.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765d"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"3085.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765e"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"8258.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d765f"},"year":"2017","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"1811.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7660"},"year":"2017","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7143.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7661"},"year":"2017","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"2728.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7662"},"year":"2017","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"84.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7663"},"year":"2018","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"477.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7664"},"year":"2018","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"55188.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7665"},"year":"2018","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1991.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7666"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"66396.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7667"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"13054.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7668"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"16640.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7669"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"1369.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766a"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"7045.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766b"},"year":"2018","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"3191.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766c"},"year":"2018","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"7109.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766d"},"year":"2018","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"2850.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766e"},"year":"2018","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"77.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d766f"},"year":"2019","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"458.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7670"},"year":"2019","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"52401.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7671"},"year":"2019","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1998.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7672"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"57701.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7673"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"12095.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7674"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"16573.3"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7675"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"1345.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7676"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"6653.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7677"},"year":"2019","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"5287.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7678"},"year":"2019","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6571.7"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7679"},"year":"2019","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"3575.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767a"},"year":"2019","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"74.4"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767b"},"year":"2020","energy_products":"Coal and Peat","sub_products":"Coal and Peat","value_ktoe":"433.2"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767c"},"year":"2020","energy_products":"Crude Oil","sub_products":"Crude Oil","value_ktoe":"45269.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767d"},"year":"2020","energy_products":"Crude Oil","sub_products":"Other Crude Oil","value_ktoe":"1777.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767e"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Fuel Oil","value_ktoe":"49175.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d767f"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Gas/Diesel Oil","value_ktoe":"13133.8"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7680"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Gasoline","value_ktoe":"17769.0"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7681"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Jet Fuel Kerosene","value_ktoe":"2117.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7682"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Naphtha","value_ktoe":"8228.6"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7683"},"year":"2020","energy_products":"Petroleum Products","sub_products":"Other Petroleum Products","value_ktoe":"3355.1"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7684"},"year":"2020","energy_products":"Natural Gas (NG)","sub_products":"Pipeline NG","value_ktoe":"6678.9"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7685"},"year":"2020","energy_products":"Natural Gas (NG)","sub_products":"Liquefied NG","value_ktoe":"3222.5"}
+{"_id":{"$oid":"63074885ff3acbe0d63d7686"},"year":"2020","energy_products":"Other Energy Products","sub_products":"Other Energy Products","value_ktoe":"70.4"}
